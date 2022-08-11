@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <Input msg="Welcome to Your Vue.js App"/>
+    <Input msg="Bienvenido a Muruna"/>
   </div>
 </template>
 
@@ -24,5 +24,9 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+
+}
+.text-left{
+  text-align: left
 }
 </style>
